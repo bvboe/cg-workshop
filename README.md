@@ -2,7 +2,7 @@
 Use this workshop as a guided tour to get up and running as quickly as possible.
 
 ## Topics
-* How to access your images from Chainguard
+* [How to access your images from Chainguard](how_to_access_chainguard_repository.md)
 * How to deploy your applications on Chainguard Images
   * Go-based applications
   * C-based application
